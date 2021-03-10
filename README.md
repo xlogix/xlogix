@@ -9,9 +9,10 @@
 
 :wave: Hi there, My name is Abhishek 😀 I'm a 23 years old, self-taught Software Engineer with a keen interest in User Experience.
 ⚡ I like to work on software products that people want and deep tech innovations. I give my 100% on products that resonate with me.
-Apart from building software, I like to do research & build communities with a purpose. I built @fnplus and organised workshops, hackathons and virtual events to get students build their technical skills by building projects.
+Apart from building software, I like to do research, share my learnings & build communities with a purpose. 
+I built @fnplus and organised workshops, hackathons and virtual events to get students build their technical skills by building projects.
 
-I like to connect with people and hearing their perspectives. Talk to me about tech, startups, space, games, video games, food, travel and conspiracy theories.
+I like to connect with people and hearing their perspectives. Connect with me to talk about tech, open-source, products, startups, space, games, video games, food, travel and conspiracy theories. We'll have fun :)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xlogix" alt="abhishekuniyal" /> </p>
 
@@ -19,8 +20,8 @@ I like to connect with people and hearing their perspectives. Talk to me about t
 
 ```json
 {
-   "languages": ["JS/TS", "Python", "Java/Kotlin", "Go", "C/C++"],
-   "backend": ["NodeJS", "Django", "Managed Cloud Services in AWS/GCP"],
+   "languages": ["JS/TS", "Python", "Java/Kotlin", "Ruby", "C/C++"],
+   "backend": ["NodeJS", "Django", "Managed Cloud Services in AWS/GCP/Firebase"],
    "frontend": ["React/Redux", "HTML/CSS", "Android", "Vue.js"],
    "databases": ["Mongodb", "Postgresql", "ElasticSearch", "Firebase", "Mysql"],
    "ai framework":["Keras", "PyTorch", "Scikit-learn"],
