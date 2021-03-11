@@ -14,8 +14,6 @@ I built @fnplus and organised workshops, hackathons and virtual events to get st
 
 I like to connect with people and hearing their perspectives. Connect with me to talk about tech, open-source, products, startups, space, games, video games, food, travel and conspiracy theories. We'll have fun :)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=xlogix" alt="abhishekuniyal" /> </p>
-
 ## {...} My Stack
 
 ```json
@@ -30,3 +28,5 @@ I like to connect with people and hearing their perspectives. Connect with me to
 ```
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xlogix&show_icons=true" alt="abhishekuniyal" /> </h1>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xlogix" alt="abhishekuniyal" /> </p>
