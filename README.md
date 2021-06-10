@@ -7,12 +7,12 @@
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/abhis.space/)
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://towardsdatascience.com/@abhishekuniyal)
 
-:wave: Hi there, My name is Abhishek 😀 I'm a 24 years old, self-taught Software Engineer with a keen interest in User Experience.
+:wave: Hi there, My name is Abhishek 😀 I'm a 24 years old, Software Engineer with a keen interest in User Experience. Since my childhood, computers have always fascinated me and I've been tinkering with them ever since.
 ⚡ I like to work on products born out of big ideas. My current interests are in SaaS & deep-tech innovations.
 
-Apart from building software, I like to do research & build communities with a purpose. I created @fnplus and organized workshops, hackathons, and virtual events to help students develop their technical skills by building projects with the best possible learning environment powered by the community!
+Apart from building software, I like to do research & diving into YouTube. I created @fnplus and organized workshops, hackathons, and virtual events to help students develop their technical skills by building projects with the best possible learning environment powered by the community!
 
-I believe building for everyone involves being aware of different perspectives, so I like to bounce ideas with people and get their opinion. Reach out if you want to talk about tech, startups, entrepreneurship, space, games, video games, food, travel, and conspiracy theories. We'll have fun :)
+I believe building for everyone involves being aware of different perspectives, so I like to bounce ideas with people and get their opinion. I get excited talking about tech, startups, entrepreneurship, music, science, space, video games, food, travel, and conspiracy theories. Feel free to reach out :)
 
 ## {...} My Stack
 
