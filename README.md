@@ -6,11 +6,11 @@
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/abhis.space/)
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://towardsdatascience.com/@abhishekuniyal)
 
-:wave: Hi there, My name is Abhishek 😀 I'm 25 years old, Software Engineer with a keen interest in User Experience. Since childhood, science & technology have fascinated me, and I've been tinkering with things. ⚡ I'm a rebel and often challenge the status quo. I like to work on products born out of big ideas. My current interests are in Deep tech, Web3 and financial independence.
+:wave: Hi there, My name is Abhishek 😀 I'm 26 years old Software Engineer with a keen interest in User Experience. Since childhood, science & technology have fascinated me, and I've been tinkering with things. ⚡ I'm a rebel and often challenge the status quo. I like to work on products born out of big ideas. My current interests are in Deep tech, Web3 and financial independence.
 
-Apart from building software, I like to do research & diving into YouTube. I created @fnplus and organized workshops, hackathons, and virtual events to help students develop their technical skills by building projects with the best possible learning environment powered by the community!
+Besides building software, I like to do research & diving into YouTube. I created @fnplus and organized workshops, hackathons, and virtual events to help students develop their technical skills by building projects with the best possible learning environment powered by the community!
 
-I believe building for everyone involves being aware of different perspectives, so I like to bounce ideas with people and get their opinion. I get excited talking about tech, startups, entrepreneurship, music, science, space, video games, food, travel, and conspiracy theories. Feel free to reach out :)
+Building for everyone involves being aware of different perspectives, so I like to bounce ideas off people and get their opinion. I get excited talking about tech, startups, entrepreneurship, music, science, space, video games, food, travel, and conspiracy theories. Feel free to reach out :)
 
 ## {...} My Stack
 
