@@ -6,11 +6,15 @@
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/abhis.space/)
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://towardsdatascience.com/@abhishekuniyal)
 
-:wave: Hi there, My name is Abhishek 😀 I'm 26 years old Software Engineer with a keen interest in User Experience. Since childhood, science & technology have fascinated me, and I've been tinkering with things. ⚡ I'm a rebel and often challenge the status quo. I like to work on products born out of big ideas. My current interests are in Deep tech, Web3 and financial independence.
+:wave: Hi there. I’m Abhishek, a pragmatic programmer passionate about emerging technologies like biomimetics, biocomputing, MR/VR/AR, and Web3. Since childhood, technology has fascinated me, and I've been tinkering with things. ⚡ I'm a rebel and often challenge the status quo. 
 
-Besides building software, I like to do research & diving into YouTube. I created @fnplus and organized workshops, hackathons, and virtual events to help students develop their technical skills by building projects with the best possible learning environment powered by the community!
+I like to work on products born out of big ideas. I enjoy building scalable systems and products that make a real-world impact. I am interested in distributed systems and system design, so I work on full-stack development and product engineering.
 
-Building for everyone involves being aware of different perspectives, so I like to bounce ideas off people and get their opinion. I get excited talking about tech, startups, entrepreneurship, music, science, space, video games, food, travel, and conspiracy theories. Feel free to reach out :)
+As a former founder and early-stage employee, I’ve worn many hats—from building products and recruiting to marketing and partnerships. I’m always curious to learn and experiment, continuously improving my skill set.
+
+Besides building software, I like to do research and dive into YouTube. I created @fnplus and organized workshops, hackathons, and virtual events to help students develop their technical skills by building projects in the best possible learning environment powered by the community!
+
+Building for everyone involves being aware of different perspectives, so I like to bounce ideas off people and get their opinions. I get excited talking about tech, startups, entrepreneurship, music, science, space, video games, food, travel, and conspiracy theories. Feel free to reach out :)
 
 ## {...} My Stack
 
