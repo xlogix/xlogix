@@ -29,6 +29,6 @@ Building for everyone involves being aware of different perspectives, so I like 
 }
 ```
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xlogix&show_icons=true" alt="abhishekuniyal" /> </h1>
+<!--- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xlogix&show_icons=true" alt="abhishekuniyal" /> </h1> --->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xlogix" alt="abhishekuniyal" /> </p>
